@@ -1,0 +1,131 @@
+{
+    "cases": [
+        {
+            "case_id": "9d10c8e6-5456-4787-b9a6-5f103efc9936",
+            "client_name": "Dylan Williams",
+            "opened_date": "2025-02-14",
+            "status": "Pending",
+            "risk_level": "Medium"
+        },
+        {
+            "case_id": "d1a822c1-342a-4b28-8f6f-06b7d586a184",
+            "client_name": "Jason Baird",
+            "opened_date": "2025-04-18",
+            "status": "Closed",
+            "risk_level": "Medium"
+        },
+        {
+            "case_id": "700177fb-c7dd-4524-b934-89aadded4f71",
+            "client_name": "Thomas Vazquez",
+            "opened_date": "2025-01-06",
+            "status": "Closed",
+            "risk_level": "Low"
+        },
+        {
+            "case_id": "869b65be-62cc-435a-9d3a-12323563977f",
+            "client_name": "Angela Lyons MD",
+            "opened_date": "2024-12-10",
+            "status": "Open",
+            "risk_level": "Medium"
+        },
+        {
+            "case_id": "780e8b88-3b41-41c3-8927-fb23de407f76",
+            "client_name": "Jennifer Reilly",
+            "opened_date": "2025-09-10",
+            "status": "Open",
+            "risk_level": "High"
+        }
+    ],
+    "appointments": [
+        {
+            "appointment_id": "51b1d50c-41ed-42a2-9262-19e802b8eded",
+            "client": "Courtney Conrad",
+            "date": "2025-12-09",
+            "type": "Court",
+            "location": "Office"
+        },
+        {
+            "appointment_id": "06f51a5b-0a0f-4025-bf20-79910a3aa556",
+            "client": "Devin Fitzgerald",
+            "date": "2025-12-09",
+            "type": "Court",
+            "location": "Virtual"
+        },
+        {
+            "appointment_id": "5b0d7b84-b25b-45b3-be35-06df31e0d9ef",
+            "client": "James Woods",
+            "date": "2025-12-09",
+            "type": "Assessment",
+            "location": "Field"
+        },
+        {
+            "appointment_id": "388b8285-c13c-4e95-998a-9904c3895b04",
+            "client": "Jennifer Tyler",
+            "date": "2025-12-09",
+            "type": "Assessment",
+            "location": "Field"
+        },
+        {
+            "appointment_id": "eb7ee0ea-2c79-4d86-8125-6d42c685d97c",
+            "client": "Bridget Ross",
+            "date": "2025-12-09",
+            "type": "Check-in",
+            "location": "Field"
+        },
+        {
+            "appointment_id": "1f261030-f491-446f-8f72-e457ccf1b91f",
+            "client": "Jerry Barron",
+            "date": "2025-12-09",
+            "type": "Assessment",
+            "location": "Virtual"
+        },
+        {
+            "appointment_id": "d03b1d10-a5ba-4c0a-ab23-7f8de5569e76",
+            "client": "Emily Smith",
+            "date": "2025-12-09",
+            "type": "Check-in",
+            "location": "Office"
+        },
+        {
+            "appointment_id": "58ea2e97-d966-408d-a118-5cd6abd34efe",
+            "client": "Janice Scott",
+            "date": "2025-12-09",
+            "type": "Check-in",
+            "location": "Field"
+        },
+        {
+            "appointment_id": "5756351e-d36f-4c2b-95fa-795c5a712893",
+            "client": "Christopher Brooks",
+            "date": "2025-12-09",
+            "type": "Assessment",
+            "location": "Office"
+        },
+        {
+            "appointment_id": "af2ddb9d-8c93-45de-8738-b9f59e9fd65a",
+            "client": "Marvin Thornton",
+            "date": "2025-12-09",
+            "type": "Court",
+            "location": "Office"
+        }
+    ],
+    "timelines": [
+        {
+            "timeline_id": "123d1358-f43a-4e99-86b0-4d51da9a3e36",
+            "start_date": "2025-09-12",
+            "end_date": "2025-03-29",
+            "phase": "Supervision"
+        },
+        {
+            "timeline_id": "073ef885-d870-4e90-adf2-b63837cf0644",
+            "start_date": "2025-08-06",
+            "end_date": "2024-12-17",
+            "phase": "Intake"
+        },
+        {
+            "timeline_id": "acb42c3f-8e07-47b8-ae3b-e1762810dd24",
+            "start_date": "2025-08-20",
+            "end_date": "2025-12-04",
+            "phase": "Supervision"
+        }
+    ]
+}
